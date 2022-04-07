@@ -1,0 +1,4 @@
+{
+	 "mongoURI":"mongodb+srv://admin:admin@portfoliocluster.kns7a.mongodb.net/myPortfolioDb?retryWrites=true&w=majority",
+	 "jwtSecret":"mysecrettoken"
+	}

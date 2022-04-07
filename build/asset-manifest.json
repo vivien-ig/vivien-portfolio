@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/vivien-portfolio/static/css/main.7e8cdeab.chunk.css",
+    "main.js": "/vivien-portfolio/static/js/main.48311867.chunk.js",
+    "main.js.map": "/vivien-portfolio/static/js/main.48311867.chunk.js.map",
+    "runtime-main.js": "/vivien-portfolio/static/js/runtime-main.85b1e50e.js",
+    "runtime-main.js.map": "/vivien-portfolio/static/js/runtime-main.85b1e50e.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/vivien-portfolio/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.3c08b500.chunk.js": "/vivien-portfolio/static/js/2.3c08b500.chunk.js",
+    "static/js/2.3c08b500.chunk.js.map": "/vivien-portfolio/static/js/2.3c08b500.chunk.js.map",
+    "index.html": "/vivien-portfolio/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/vivien-portfolio/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.7e8cdeab.chunk.css.map": "/vivien-portfolio/static/css/main.7e8cdeab.chunk.css.map",
+    "static/js/2.3c08b500.chunk.js.LICENSE.txt": "/vivien-portfolio/static/js/2.3c08b500.chunk.js.LICENSE.txt",
+    "static/media/blogdetails.scss": "/vivien-portfolio/static/media/blog2.9288eb0e.png",
+    "static/media/home.scss": "/vivien-portfolio/static/media/picViv.a0f78c76.jpg",
+    "static/media/facebook.a50b3160.png": "/vivien-portfolio/static/media/facebook.a50b3160.png",
+    "static/media/img1.4832cb71.png": "/vivien-portfolio/static/media/img1.4832cb71.png",
+    "static/media/img10.f5b58831.png": "/vivien-portfolio/static/media/img10.f5b58831.png",
+    "static/media/img2.5388189b.png": "/vivien-portfolio/static/media/img2.5388189b.png",
+    "static/media/img3.82565c92.png": "/vivien-portfolio/static/media/img3.82565c92.png",
+    "static/media/img3.908ff519.png": "/vivien-portfolio/static/media/img3.908ff519.png",
+    "static/media/img4.c6ad69f3.png": "/vivien-portfolio/static/media/img4.c6ad69f3.png",
+    "static/media/img5.679a5dfe.png": "/vivien-portfolio/static/media/img5.679a5dfe.png",
+    "static/media/img6.e3a406ff.png": "/vivien-portfolio/static/media/img6.e3a406ff.png",
+    "static/media/img8.be811fbd.png": "/vivien-portfolio/static/media/img8.be811fbd.png",
+    "static/media/img9.631ebae5.png": "/vivien-portfolio/static/media/img9.631ebae5.png",
+    "static/media/instagram.fcb51eb6.png": "/vivien-portfolio/static/media/instagram.fcb51eb6.png",
+    "static/media/about.scss": "/vivien-portfolio/static/media/picViv2.63fcc426.jpeg",
+    "static/media/twitter.d4bfe1c2.png": "/vivien-portfolio/static/media/twitter.d4bfe1c2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85b1e50e.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.3c08b500.chunk.js",
+    "static/css/main.7e8cdeab.chunk.css",
+    "static/js/main.48311867.chunk.js"
+  ]
+}
