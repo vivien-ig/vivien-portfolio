@@ -1,7 +1,7 @@
 {
   "name": "vtube-website",
   "version": "0.1.0",
-  "homepage": "https://vivien-ig.github.io/vivien-portfolio",
+  "homepage": "https://vivien-ig/vivien-portfolio.github.io",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.0.0-beta2",
